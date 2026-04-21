@@ -117,7 +117,7 @@ export default function AgenticPage() {
           muted
           playsInline
           className="absolute inset-0 w-full h-full object-cover z-0"
-          src="https://tomaslonnblad.github.io/okgolf.avi"
+          src="https://tomaslonnblad.github.io/okgolfmp4.mp4"
           style={{
             transform: videoReady ? "scale(1.05)" : "scale(0.85)",
             transition: "transform 2s cubic-bezier(0.16, 1, 0.3, 1)",
